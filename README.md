@@ -1,6 +1,6 @@
 # Fake Modern Store
 
-Fake Modern Store é um projeto de uma página de compras, onde é possível escolher um produto e o mesmo é guardado em um carrinho de compras, onde é possível alterar a quantidade dos produtos assim como também é possivel visualizar o valor total dos produtos selecionados qua estão no carrinho.
+Fake Modern Store é um projeto de uma página de compras, onde é possível escolher um produto e o mesmo é guardado em um carrinho de compras, onde é possível alterar a quantidade dos produtos assim como também é possível visualizar o valor total dos produtos selecionados quando estão no carrinho.
 
 O projeto foi construído com Next.js, TypeScript, estilização com Styled Components, React Query para as requisições "HTTPS", React Paginate para paginação, ícones com React Icons e o Axios para o tratamento da URL.
 
