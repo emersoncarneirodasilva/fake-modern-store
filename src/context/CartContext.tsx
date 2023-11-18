@@ -39,7 +39,6 @@ const CartProvider: React.FC<CartProviderProps> = ({ children }) => {
   useEffect(() => {
     const savedCart = localStorage.getItem(CART_STORAGE_KEY);
     if (savedCart) {
-      console.log(savedCart);
       setCart(JSON.parse(savedCart));
     }
   }, []);

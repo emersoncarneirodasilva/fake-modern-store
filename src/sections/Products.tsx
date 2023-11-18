@@ -7,7 +7,7 @@ import {
   Section,
 } from "./Products.styles";
 import { useQuery } from "react-query";
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import ProductCard from "@/components/ProductCard";
 import ReactPaginate from "react-paginate";
 import api from "@/api/api";
